@@ -1,0 +1,1 @@
+A collection of OTA binaries offered by the Tuya app if a TuyaMCU device is flagged as having an update available. Pics alongside binaries show changelog. "Current" version shown in image should not be taken as if a real version shipped with device.
